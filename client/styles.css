@@ -1,0 +1,21 @@
+button:hover {
+    cursor: pointer;
+    background-color: royalblue;
+}
+
+button {
+    height: 40px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 0;
+    background-color: aquamarine;
+}
+
+input {
+    margin: 20px;
+    width: 240px;
+}
+
+li:hover {
+    cursor: pointer;
+}
